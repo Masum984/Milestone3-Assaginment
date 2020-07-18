@@ -35,7 +35,7 @@
      }
      return tiny;
    }
-  var tinyboy = tinyFriend([ 'MasumBillah','sumon', 'Umayma', 'kaku']);
+  var tinyboy = tinyFriend([ 'kaku', 'MasumBillah', 'sumon', 'Umayma' ]);
   console.log(tinyboy);
 
 
